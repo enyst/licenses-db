@@ -1,0 +1,340 @@
+No-Fee Unrestricted Use Web Wrap Licence Agreement For Government Geographic Data
+
+This licence agreement is between Her Majesty the Queen in Right of Canada, as represented by the Minister of
+Agriculture and Agri-Food Canada (Canada) and you.
+
+THE FOLLOWING ARE TERMS AND CONDITIONS GOVERNING YOUR USE OF THIS DATA. BY
+BROWSING THROUGH, DOWNLOADING, ACCESSING OR OTHERWISE USING THIS DATA, YOU
+ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD AND AGREE TO BE LEGALLY BOUND BY THE
+TERMS AND CONDITIONS SET OUT BELOW. IF YOU DO NOT AGREE TO THESE TERMS AND
+CONDITIONS, YOU MAY NOT BROWSE THROUGH, DOWNLOAD, ACCESS OR OTHERWISE USE THIS
+DATA.
+
+CANADA MAY MODIFY THIS AGREEMENT AT ANY TIME, AND SUCH MODIFICATIONS SHALL BE
+EFFECTIVE IMMEDIATELY UPON POSTING OF THE MODIFIED AGREEMENT ON THE NATIONAL
+LAND AND WATER INFORMATION SERVICE SITE. YOUR CONTINUED ACCESS OR USE OF THIS DATA
+SHALL BE DEEMED YOUR CONCLUSIVE ACCEPTANCE OF THE MODIFIED AGREEMENT.
+
+BACKGROUND:
+
+1. Canada is the owner, or licensee, of Intellectual Property Rights in and to Canada Digital Data, as
+described in Schedule "A" attached hereto;
+2. You are interested in acquiring certain rights to the Canada Digital Data, in accordance with the terms
+and conditions contained herein; and
+3. Canada is willing to grant you certain rights to the Canada Digital Data, in accordance with the terms
+and conditions contained herein;
+
+1.0 DEFINITIONS
+
+1.1 "Agreement" means this no-fee unrestricted use web wrap licence agreement, its recitals and schedules.
+
+1.2 "Canada's Data" means that Data contained in the Canada Digital Data, the Intellectual Property Rights of
+which vest in Canada.
+
+1.3 "Canada Digital Data" means the digital Data, metadata and related documentation described in Schedule
+"A" attached hereto, provided by Canada to you in accordance with the terms and conditions of this Agreement.
+Canada's Data is contained in the Canada Digital Data. Canada Digital Data may also contain Data the
+Intellectual Property Rights of which vest with third parties, and which is licensed to Canada.
+
+1.4 "Data" means any expressed original data fixed in a form giving rise to Intellectual Property Rights, such as
+described in Schedule "A" attached hereto.
+
+1.5 "Intellectual Property Rights" means any and all intellectual property rights recognized by the law,
+including but not limited to, intellectual property rights protected through legislation.
+
+1.6 "Value-Added Product" means any product, system, sub-system, device, component, material or software
+you develop or manufacture, or cause to be developed or manufactured, in the exercise of your rights under this
+Agreement. Value-Added Products may be developed or manufactured by constructing, deriving, developing,
+adapting, incorporating or by any other means using the Canada Digital Data, in whole or in part.
+
+2.0 INTELLECTUAL PROPERTY RIGHTS
+
+2.1 Subject to section 2.2 hereof, and without affecting Canada's Intellectual Property Rights in and to Canada's
+Data and any third-party's Intellectual Property Rights in Data contained in the Canada Digital Data, all
+Intellectual Property Rights in and to any modification, translation or further development made by you to the
+Canada Digital Data in the exercise of your rights under this Agreement shall vest in you or in such person as
+you shall decide.
+
+2.2 All Intellectual Property Rights in Canada's Data shall remain the property of Canada. All Intellectual
+Property Rights in Data contained in the Canada Digital Data which is not Canada's Data shall remain the
+property of the respective content owners and may be protected by copyright, other intellectual property laws,
+common law or international treaties.
+
+3.0 LICENCE GRANT
+
+3.1 Subject to this Agreement, Canada hereby grants you a royalty-free, non-exclusive, world-wide, non-
+assignable licence to use, reproduce, extract, modify, translate, further develop and distribute the Canada Digital
+Data, and to manufacture and license Value-Added Products, and to sublicense any or all of such rights,
+
+PROVIDED:
+
+a. all reproductions of the Canada Digital Data shall include the notice provided in section 4.1 and shall
+carry the caveat contained in section 6.1 hereof;
+b. all distributions of Value-Added Products and of the Canada Digital Data, in whole or in part, and any
+sublicense by you of your rights hereunder, shall be evidenced by a written agreement consistent with
+this Agreement and containing the terms and conditions set out in Schedule "B" attached hereto; and
+
+c. you shall not disassemble, decompile except for the specific purpose of recompiling for software
+compatibility, or in any way attempt to reverse engineer the Canada Digital Data or any part thereof,
+and you shall not merge or link the Canada Digital Data with any product or database in such a fashion
+that gives the appearance that you may have received or had access to, information held by Canada
+about any identifiable individual, family, household, organization or business.
+
+3.2 If you choose to distribute Canada Digital Data or Value-Added Products in paper or electronic formats,
+such as pdf files, that do not allow for their further modification, manipulation or the ability to be combined with
+other data, then the provisions of clauses 3.1 (a) and (b) will not apply. However, in such circumstances you must
+still prominently display the notice set out in either section 4.1 or section 4.2, as the case may be.
+
+4.0 PROTECTION AND ACKNOWLEDGEMENT OF SOURCE
+
+4.1 You shall include and maintain on all reproductions of the Canada Digital Data, produced pursuant to
+section 3 above, the following notice:
+Reproduced and distributed with the permission of Agriculture and Agri-Food Canada*.
+
+4.2 Where any of the Canada Digital Data is contained within a Value-Added Product, you shall include in a
+prominent location on such Value-Added Product the following notice:
+This product has been produced by or for _____ (your name or corporate name, if applicable) and includes data
+provided by Agriculture and Agri-Food Canada*.
+The incorporation of data sourced from Agriculture and Agri-Food Canada* within this product shall not be
+construed as constituting an endorsement by Agriculture and Agri-Food Canada* of our product.
+or any other notice approved in writing by Canada.
+* Instructions for acknowledging additional sources are set out in Schedule A.
+
+4.3 You shall ensure that no acknowledgment of Canada, except as permitted under sections 4.1 and 4.2 above,
+shall be shown in association with any form of promotion or advertisement of Value-Added Products. You shall
+not include in your promotional material:
+
+a. the name, crest, logos, flags or other insignia or domain names of Canada, without the prior written
+approval of Canada, which approval may be refused at Canada's sole discretion; or
+b. any annotation of any kind that may be interpreted as an endorsement by Canada of the Value-Added
+Products.
+
+5.0 YOUR OBLIGATIONS
+
+5.1 You shall promptly notify Canada of any infringement by third parties of the Canada Digital Data when
+such becomes known to you. Where possible, you will provide a sample of such infringement and co-operate
+with Canada in enforcing Canada's Intellectual Property Rights against the infringer. You shall not institute any
+suit or take any action on account of any such infringements without Canada's prior written consent.
+
+5.2 You shall not use any identifier or mark of Canada, or the name of Agriculture and Agri-Food Canada in a
+manner that would imply that you have an exclusive distribution arrangement for any or all of the Canada
+Digital Data, or that you have access to any confidential information or information not available to any other
+party.
+
+5.3 You shall not use the Canada Digital Data in any way which, in the opinion of Canada, may bring disrepute
+to or prejudice the reputation of Canada.
+
+5.4 You shall supply to Canada, prior to its use or publication, a copy of all recommended marketing and
+promotional literature that identifies the Canada Digital Data or refers to the relationship between you and
+Canada. Canada shall notify you of any required changes within seven (7) days of receipt of the materials. You
+shall make all changes to such materials as Canada, in its sole discretion, deems advisable.
+
+6.0 REPRESENTATIONS, WARRANTIES, INDEMNITIES
+
+6.1 CANADA MAKES NO REPRESENTATION AND GIVES NO WARRANTY OF ANY KIND WITH
+RESPECT TO THE ACCURACY, USEFULNESS, NOVELTY, VALIDITY, SCOPE, COMPLETENESS OR
+CURRENCY OF THE CANADA DIGITAL DATA AND EXPRESSLY DISCLAIMS ANY IMPLIED
+WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE CANADA
+DIGITAL DATA.
+
+6.2 YOU SHALL HAVE NO RECOURSE AGAINST CANADA, WHETHER BY WAY OF ANY SUIT OR
+ACTION OR OTHER, FOR ANY LOSS, LIABILITY, DAMAGE OR COST THAT YOU MAY SUFFER OR
+INCUR AT ANY TIME, BY REASON OF YOUR POSSESSION OR USE OF THE CANADA DIGITAL DATA,
+OR ARISING OUT OF THE EXERCISE OF YOUR RIGHTS OR THE FULFILMENT OF YOUR
+OBLIGATIONS HEREUNDER.
+
+6.3 YOU SHALL AT ALL TIMES INDEMNIFY AND HOLD CANADA AND ITS MINISTERS,
+EMPLOYEES AND AGENTS HARMLESS FROM ALL CLAIMS, DEMANDS, LOSSES, DAMAGES,
+COSTS, ACTIONS OR OTHER PROCEEDINGS MADE, SUSTAINED, BROUGHT OR PROSECUTED BY
+ANY PERSON IN ANY MANNER, BASED UPON, OR OCCASIONED BY, OR ATTRIBUTED TO ANY
+INJURY, INFRINGEMENT OR DAMAGE ARISING OUT OF ANY OF YOUR ACTIONS OR OMISSIONS,
+ARISING FROM ERRONEOUS COMMUNICATION MADE BY YOU, OR ARISING FROM YOUR
+PERFORMANCE OR NON-PERFORMANCE OF YOUR RIGHTS AND OBLIGATIONS HEREUNDER OR
+ARISING FROM THE MANUFACTURE, PUBLICATION, DISTRIBUTION OR THE USE OF VALUE-
+ADDED PRODUCTS.
+
+7.0 EFFECTIVE DATE AND TERMINATION
+
+7.1 This Agreement is effective as of the date and time you download, access or otherwise use the Canada
+Digital Data and shall remain in effect until terminated, as provided in section 7.2.
+
+7.2 This Agreement terminates automatically and your rights under section 3.0 shall immediately be revoked if
+you breach any of the terms and conditions of this Agreement.
+
+7.3 Notwithstanding termination of this Agreement:
+
+a. you may continue to distribute Value-Added Products for the purpose of completing orders made before
+the termination of this Agreement, provided you continue to comply with the requirements to protect
+and acknowledge the source, as required under section 4.0 and the requirements set out in Schedule "B"
+attached hereto; and
+
+b. you continue to be bound by all agreements that you have entered into in the exercise of your rights
+under this Agreement prior to the termination.
+
+7.4 All obligations which expressly or by their nature survive termination of this Agreement shall continue in full
+force and effect. For greater clarity, and without limiting the generality of the foregoing, the following provisions
+survive expiration or termination of this Agreement:
+
+a. section 4.0 (Protection and Acknowledgement of Source)
+b. section 6.0 (Representations, Warranties and Indemnities);
+c. section 7.3 (a) and (b)
+
+8.0 GENERAL PROVISIONS
+
+8.1 Applicable Law
+This Agreement shall be construed and enforced in accordance with, and the rights of the Parties shall be
+governed by, the laws in effect in the Province of Ontario, and the laws of Canada, as applicable.
+
+8.2 Entire Agreement
+This Agreement, including the recitals and Schedules "A" and "B" constitute the entire Agreement between
+Canada and you with respect to your rights to browse through, download, access or otherwise use the Canada
+Digital Data and supersedes any prior agreement or communication of any kind between Canada and you. This
+Agreement may be amended by Canada, in the manner set out at the beginning of this Agreement.
+
+8.3 No Waiver
+No condoning, excusing or overlooking by Canada of any default by you, at any time or times, in performing or
+observing any of your obligations hereunder, will operate as a waiver, renunciation, surrender of or otherwise
+affect the rights of Canada in respect of any continuing or subsequent default. No waiver of these rights will be
+inferred from anything done or omitted by Canada except by an express waiver in writing.
+
+8.4 Order of Precedence
+If there is a conflict or ambiguity between this Agreement and any schedules thereto, this Agreement shall
+prevail.
+
+8.5 No Authority to Bind
+You do not have the authority to act for, or to assume any obligation or responsibility on behalf of Canada.
+
+8.6 No updates
+Canada assumes no obligation or liability whatsoever for the provision of updates to the
+Canada Digital Data.
+
+SCHEDULE "A" to the No-Fee Unrestricted Use Web Wrap Licence Agreement
+
+DESCRIPTION OF CANADA DIGITAL DATA
+When an additional source is identified for a data collection (marked with an asterisk[*] in the following list), this
+Agreement is deemed to be amended by inserting the name of that source at the asterisk[*] in sections 4.1 and 4.2,
+and in Schedule B at sections B1 - 2, B2 - 2 and B2 - 3.
+
+* The polygon outline that is the result of an analysis carried out using the Biomass Inventory Mapping
+and Analysis Tool (BIMAT)
+* Land Cover for agricultural regions of Canada, circa 2000, Canadian Prairies Edition: 1.1
+* Canada Land Inventory (CLI)
+* Gridded Climate Dataset
+* Interpolated Census of Agriculture
+* National Ecological Framework for Canada
+* PFRA Generalized Land cover
+* PFRA Watershed Boundaries
+* Soil Landscape of Canada (SLC)
+
+SCHEDULE "B" to the No-Fee Unrestricted Use Web Wrap Licence Agreement
+
+You shall include these terms and conditions in all agreements you enter into with third parties for:
+
+1. the distribution of Value-Added Products; and
+
+2. whenever you are sub-licensing any or all of the rights granted to you under section 3.1 of this No-Fee
+Unrestricted Use Web Wrap Licence Agreement)
+
+For ease of reference and unless otherwise indicated, capitalized words contained in this Schedule have the
+meaning ascribed to them in the No-Fee Unrestricted Use Web Wrap Licence Agreement.
+
+The word "Customer", as used below, refers to the customer with whom you are entering into an agreement for
+the distribution of Value-Added Products or a licence Agreement. You may replace in your own agreements the
+word "Customer" with an equivalent term.
+
+B1) TERMS TO BE INCLUDED IN YOUR AGREEMENTS FOR THE DISTRIBUTION OF VALUE-ADDED PRODUCTS YOU HAVE DEVELOPED:
+
+1. Her Majesty the Queen in Right of Canada ("Canada") is the owner, or a licensee, of Intellectual
+Property Rights in _________________ [insert product name]; and has licensed to _________ (your
+name) certain rights to such intellectual property, including the right to sublicense it to third parties, on
+certain terms and conditions. With payment of the requisite fee (where applicable), Customer is hereby
+granted a non-exclusive, world-wide, non-assignable licence to exercise such of Canada's Intellectual
+Property Rights in ________ [insert product name] as is necessary for Customer to use, reproduce,
+extract, modify, translate, further develop and further distribute __________ [insert product name], and
+as is necessary for Customer to manufacture and distribute products that Customer may develop by
+constructing, deriving, developing, adapting, incorporating or by any other means using _________
+[insert product name], in whole or in part.
+
+2. Customer shall include on all products Customer develops or causes to be developed in the exercise of
+Customer's rights under section 1 above, in a prominent location, the following notice:
+o This product has been produced by or for __________ (Customer's name) and includes data
+provided by Agriculture and Agri-Food Canada*.
+o The incorporation of data sourced from Agriculture and Agri-Food Canada* within this
+product shall not construed as constituting an endorsement by Agriculture and Agri-Food
+Canada*.
+
+3. All copyright, other proprietary notices of Canada and metadata appearing on or incorporated into
+________ [insert product name], as well as any and all conditions of use associated with __________
+[insert product name], shall be incorporated and maintained on all reproductions of _________ [insert
+product name].
+
+4. Customer shall not disassemble, decompile except for the specific purpose of recompiling for software
+compatibility, or in any way attempt to reverse engineer ________ [insert product name] or any part
+thereof.
+
+5. Customer shall not merge or link ________ [insert product name] with any product or database in such
+a fashion that gives the appearance that Customer may have received, or had access to, information held
+by Canada about any identifiable individual, family, household, organization or business.
+
+6. _________ [INSERT PRODUCT NAME] IS PROVIDED ON AN 'AS-IS' BASIS. CUSTOMER
+ACKNOWLEDGES AND AGREES THAT CANADA HAS MADE NO REPRESENTATION OR
+WARRANTY OF ANY KIND WITH RESPECT TO THE ACCURACY, USEFULNESS, NOVELTY,
+VALIDITY, SCOPE, COMPLETENESS OR CURRENCY OF ______ [INSERT PRODUCT NAME]
+OR ANY ELEMENTS THEREIN CONTAINED AND HAS EXPRESSLY DISCLAIMED ANY
+IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE
+OF ______ [INSERT PRODUCT NAME].
+
+7. CUSTOMER SHALL HAVE NO RECOURSE AGAINST CANADA, WHETHER BY WAY OF SUIT
+OR ACTION OR OTHER, FOR ANY LOSS, LIABILITY, DAMAGE OR COST THAT CUSTOMER
+MAY SUFFER OR INCUR AT ANY TIME, BY REASON OF CUSTOMER'S POSSESSION OR
+USE OF ________ [INSERT PRODUCT NAME].
+
+
+B2) TERMS TO BE INCLUDED WHERE YOU ARE LICENSING TO A THIRD PARTY ALL OF THE
+RIGHTS THAT CANADA HAS GRANTED TO YOU
+
+1. Her Majesty the Queen in Right of Canada ("Canada") is the owner, or a licensee, of Intellectual
+Property Rights in _______________________ (the "Canada Digital Data"); and has licensed to
+_________ (your name) certain rights to the Canada Digital Data, including the right to sublicense
+those rights to third parties, on certain terms and conditions.
+
+2. With payment of the requisite fee (where applicable), Customer is hereby granted a non-exclusive,
+world-wide, non-assignable licence to use, reproduce, extract, modify, translate, further develop,
+distribute the Canada Digital Data, and to manufacture or cause to be manufactured and distributed
+products Customer develops by constructing, deriving, developing, adapting, incorporating or by any
+other means using the Canada Digital Data, in whole or in part, PROVIDED Customer includes and
+maintains on all reproductions of the Canada Digital Data, as well as all metadata that was provided by
+_______ (your name) with the Canada Digital Data, the following notice:
+o Reproduced and distributed with the permission of ______ (Your name), authorized licensee
+of Agriculture and Agri-Food Canada*.
+
+3. Customer shall include on all products Customer develops or causes to be developed in the exercise of
+Customer's rights under section 2 above, in a prominent location, the following notice:
+o This product has been produced by or for __________ (Customer's name) and includes data
+provided by Agriculture and Agri-Food Canada*.
+o The incorporation of data sourced from Agriculture and Agri-Food Canada* within this
+product shall not construed as constituting an endorsement by Agriculture and Agri-Food
+Canada*.
+
+4. All copyright, other proprietary notices of Canada and metadata appearing on or incorporated into the
+Canada Digital Data, as well as any and all conditions of use associated with the Canada Digital Data,
+shall be incorporated and maintained on all reproductions thereof.
+
+5. Customer shall not disassemble, decompile or in any way attempt to reverse engineer the Canada
+Digital Data or any part thereof.
+
+6. Customer shall not merge or link the Canada Digital Data with any product or database in such a
+fashion that gives the appearance that Customer may have received, or had access to, information held
+by Canada about any identifiable individual, family, household, organization or business.
+
+7. CUSTOMER ACKNOWLEDGES AND AGREES THAT CANADA HAS MADE NO
+REPRESENTATION OR WARRANTY OF ANY KIND WITH RESPECT TO THE ACCURACY,
+USEFULNESS, NOVELTY, VALIDITY, SCOPE, COMPLETENESS OR CURRENCY OF THE
+CANADA DIGITAL DATA AND HAS EXPRESSLY DISCLAIMED ANY IMPLIED WARRANTY
+OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE CANADA
+DIGITAL DATA.
+
+8. CUSTOMER SHALL HAVE NO RECOURSE AGAINST CANADA, WHETHER BY WAY OF ANY
+SUIT OR ACTION OR OTHER, FOR ANY LOSS, LIABILITY, DAMAGE OR COST THAT
+CUSTOMER MAY SUFFER OR INCUR AT ANY TIME, BY REASON OF CUSTOMER'S
+POSSESSION OR USE OF THE CANADA DIGITAL DATA.
