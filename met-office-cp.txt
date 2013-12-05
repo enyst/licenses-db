@@ -1,0 +1,104 @@
+
+#### UK Climate Projections Licence Agreement
+between
+Department for Environment, Food and Rural Affairs, Nobel House, Smith
+Square, London SW1P 3JR (“the Department”)
+and
+xxxxxxxxxxxxxxxx (“the Licensee”)
+
+in respect of the UK Climate Projections (“UKCP09”), as supplied under
+the Department for The Environment, Food and Rural Affairs (DEFRA),
+comprising components of contracts GA01080, GA01099, GA01100, GA01101
+and GA01104. (“Data”)
+
+Definitions
+
+Primary Data means unrefined Data which has not been processed or
+changed from its original form.
+Derived Data means Primary Data which has been processed and converted
+into another form.
+Restricted Commercial means the use of the Data to create Derived Data
+or Use products for commercial exploitation but not licensing the
+Primary Data to a third party at a cost above the cost of delivery.
+Unrestricted Commercial means Data for commercial exploitation without
+use restriction.
+
+1. In consideration of the Licensee agreeing the following terms and
+conditions, the Department hereby grants to the Licensee a
+non-transferable non-exclusive licence to use the UKCP09 datasets[1] as
+follows:
+* Primary data for bone fide academic research purposes and for
+   restricted commercial use (incorporating the restrictions below)
+* Derived Data for any purpose, including unrestricted commercial use.
+
+2. The Licensee shall not use or permit the use of products derived from
+the Data for commercial purposes unless they fully and prominently
+acknowledge the source of the Data as set out under paragraph 8 of this
+licence and state that the Data is available without cost.
+
+3. The Licensee shall not use or permit the use of the Primary Data for
+commercial exploitation, business use, resale, or sub-licence to any
+third party. Written permission from the Department shall be obtained in
+cases where it is not clear whether the intended use falls into the
+Derived Data or Primary Data category.
+
+4. The Licensee shall not use or permit the use of Primary Data for
+transfer to any third party unless the transfer is undertaken without
+charge above the costs of delivery. You must ensure that any customers
+that you provide with primary UKCP09 data products have signed up to the
+UKCP09 licence agreement at xxxxxxx. Transfer of primary UKCP09 data
+products to customers that have not signed the agreement constitutes a
+breach of the licence conditions.
+
+5. The Crown, as represented by the Department, retains all intellectual
+property rights on the Data, including, but not limited to, all
+copyright, all future rights and all rights in the nature of copyright.
+
+6. The licence granted to the Licensee operates as a permission only and
+does not imply any obligation or liability or any conditions, warranties
+or representations in relation to the accuracy of the Data, on the part
+of the Department and organisations[2] responsible for producing UKCP09.
+
+7. The Licensee acknowledges that the Department has made the Data
+available on the basis that they reflect current scientific
+understanding and that the Licensee is aware of the uncertainty
+described in the accompanying reports available on the UKCIP and Defra
+websites.
+
+8. The Licensee agrees to use the following acknowledgement in any
+publication, scientific report or paper arising from use of the Data:
+"(c) Crown Copyright 2009. The UK Climate Projections data have been
+made available by the Department for Environment, Food and Rural Affairs
+(Defra) and Department for Energy and Climate Change (DECC) under
+licence from the Met Office, Newcastle University, University of East
+Anglia and Proudman Oceanographic Laboratory . These organisations
+accept no responsibility for any inaccuracies or omissions in the data,
+nor for any loss or damage directly or indirectly caused to any person
+or body by reason of, or arising out of, any use of this data.”
+
+9. The Licensee agrees that their name, address, email and any research
+project titles may be published on the UKCIP, Met Office or Defra
+websites.
+
+10. Either party shall be entitled to terminate this licence by giving
+to the other not less than thirty (30) days notice in writing to that
+effect.
+
+11. This licence shall run from the date of signing of this licence. The
+Department reserves the right to terminate this licence without notice
+if the Licensee is in breach of any of the conditions herein.
+
+12. This licence shall be governed by and construed in accordance with
+English law and both parties hereby agree to submit to the exclusive
+jurisdiction of the courts of England and Wales.
+
+Signed
+
+
+
+[1] As provided through the UKCP09 user interface and HadRM3 data available through LINK. Requests for
+UKCP09-related data not freely available through these means may be subject to a handling charge
+
+[2] The Met Office Hadley Centre; UK Climate Impacts Programme; British Atmospheric Data Centre; Newcastle
+University; University of East Anglia; Environment Agency; Tyndall Centre, Proudman Oceanographic
+Laboratory, Centre for Environment, Fisheries and Aquaculture Science.
