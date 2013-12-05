@@ -1,0 +1,44 @@
+MODEL DATA USE LICENSE
+
+DMTI is the owner, or the licensee, of the intellectual property rights
+(including copyright) in these data products, and this Agreement is only
+a license to acquire and use these data products. No title or other
+rights are conveyed by this Agreement.
+
+These data products are provided 'as is', and the owner makes no
+representations or warranties, either expressed or implied, as to the
+appropriateness and fitness for a particular purpose.
+
+These data products are provided for the exclusive purposes of teaching,
+academic research and publishing, and/or planning of educational
+services within this educational institution, and may not be used for
+any other purposes without the explicit written approval, in advance, of
+DMTI.
+
+These data products are to be made available only to educators, students
+and other staff members of this educational institution (referred to
+herein as "authorized users") and only while they have such status with
+this educational institution.
+
+Authorized users are prohibited from using these data products and
+software in the pursuit of any contractual or income generating ventures
+either privately, or under the auspices of the educational institution.
+
+Copies of these data and software products may be retained by authorized
+users for the period necessary to conduct the research or teaching,
+including their use as evidence of research methodologies and results
+and subsequent research and analysis during the term of this agreement.
+
+The distribution of any data obtained under this agreement outside this
+educational institution through sale, donation, transfer or exchange of
+any portion of the data in any way is strictly prohibited, with the
+exception of distribution to bona fide participants in this consortium.
+The University consortium contact must agree to such distribution.
+
+The publishing of data and analysis resulting from research using any of
+the data products is permitted in research communications such as
+scholarly papers, journals and the like. The data to be included in such
+communications can only include raster images and must not include
+vector data. The authors of these communications are required to cite
+DMTI Spatial Inc. as the source of the data, and to indicate that the
+results or views expressed are those of the author/authorized user.
