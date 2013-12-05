@@ -7,18 +7,18 @@ wherever the original text is needed. (i.e. information,
 free/open documentation, license tools, license choosers
 and application help)
 
+#### Master branch
+
+Master branch contains the full text of free/open
+licenses.
+
 The repository originated from SPDX license list,
 for convenience of identification, but it has nothing
 else in common with their list, and it doesn't contain
 non-free/open licenses.
 
 Please file an issue or a patch if you consider that any
-non-free/open license sneaks its way in.
-
-#### Master branch
-
-Master branch contains the full text of free/open
-licenses.
+non-free/open license sneaked in.
 
 ##### The selection for this branch is based on:
 * any domain of human knowledge: software, writing, design
