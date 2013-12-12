@@ -41,10 +41,10 @@ automatically.
 
 ### Acceptance
 
-The Terms of Use are governed by and construed in accordance with English law, and any disputes relating to these terms and conditions will be subject to the exclusive jurisdiction of the courts of England and Wales.
+These terms are governed by and construed in accordance with English law, and any disputes relating to these terms and conditions will be subject to the exclusive jurisdiction of the courts of England and Wales.
 
-* IMPORTANT:  By accessing and using the Unistats Dataset you will automatically be taken to have read, understood and accepted the Terms of Use.  If you do not agree to be bound by the Terms of Use please cease to access and use the Unistats Dataset and any of the information found within it (including any information you have copied or downloaded).
+##### IMPORTANT:  By accessing and using the Unistats Dataset you will automatically be taken to have read, understood and accepted these terms.  If you do not agree to be bound by these terms please cease to access and use the Unistats Dataset and any of the information found within it (including any information you have copied or downloaded).
 
 ### Availability of the Unistats Dataset
 
-* IMPORTANT: The Unistats Dataset is therefore provided to you on an "as is" and "as and when available" basis.
+##### IMPORTANT: The Unistats Dataset is therefore provided to you on an "as is" and "as and when available" basis.
